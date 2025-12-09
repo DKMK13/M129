@@ -21,6 +21,7 @@ Jede Schicht hat klar definierte Aufgaben und ermöglicht standardisierte Kommun
   - Glasfaser
   - WLAN-Frequenzen
 
+![OSI-Layer](../Bilder/OSI-Layer.png)
 ---
 
 ### **2. Sicherungsschicht (Data Link Layer)**
