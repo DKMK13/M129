@@ -35,13 +35,13 @@
 
 ### 1.3 Funktionen von Switch & Router
 
-**Switch (Layer 2):**
+**[Switches](./Theorie/Switches.md) (Layer 2):**
 - Verbindet Endgeräte im **gleichen Netz**
 - Arbeitet mit **MAC-Adressen**
 - Lernfunktion: MAC-Adress-Tabelle
 - Reduziert Kollisionen, vollduplex, hohe Bandbreite
 
-**Router (Layer 3):**
+**[Routing](./Theorie/Routing.md) (Layer 3):**
 - Verbindet **verschiedene IP-Netze**
 - Arbeitet mit **IP-Adressen**
 - Trifft Weiterleitungsentscheidungen anhand der **Routing-Tabelle**
@@ -239,6 +239,8 @@ Beispiele je nach Aufgabe:
 | 3 | Vermittlung | IP, Routing | IP, ICMP, Router |
 | 2 | Sicherung | MAC, Frames | Switch, MAC, VLAN |
 | 1 | Bitübertragung | Bits, Signale, Kabel | Kabel, WLAN-Funksignal |
+
+![OSI-Layer](../Bilder/OSI-Layer.png)
 
 **Merksatz (oben → unten):**  
 > All People Seem To Need Data Processing  
